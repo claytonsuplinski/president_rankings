@@ -101,7 +101,7 @@
 		}
 		
 		.profile{
-			font-family:'Quattrocentro';
+			font-family:'Quattrocentro', Georgia;
 		}
 		
 		.profile .president{
@@ -326,7 +326,6 @@
 	
 	function hash_load(){
 		var hash = hash_url();
-		console.log(hash);
 		if(hash <= PRESIDENTS.length && hash >= 1) load_president(hash);
 		else load_all_presidents();
 	};
@@ -363,7 +362,6 @@
 				'<div class="col-xs-12 shell profile">'+
 					CATEGORIES.map(function(c){ 
 						var score = president[c] || '-';
-						console.log(c);
 						var cls = (score > 7 || ['Death in Office', 'Impeachment in Office'].indexOf(c) != -1 ? 'good' : 'bad');
 						return '<div class="col-xs-12 col-sm-6 col-md-3 category-container"><div class="category '+cls+'">'+c+'<hr><div class="score">'+score+'</div></div></div>';
 					}).join('')+
