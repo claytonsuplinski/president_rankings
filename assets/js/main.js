@@ -42,6 +42,7 @@ function hash_load(){
 };
 
 function load_all_presidents(){
+	$(document).scrollTop(0);
 	$("#content").html(
 		PRESIDENTS.map(function(president){
 			return '<div class="col-xs-12 col-sm-6 col-md-4 shell">'+
@@ -58,6 +59,7 @@ function load_all_presidents(){
 function load_president(rank){
 	var president = PRESIDENTS.filter(function(p){ return p.rank == rank; })[0];
 	if(president){
+		$(document).scrollTop(0);
 		$("#content").html(
 			'<div class="col-xs-12 col-md-6 shell profile">'+
 				'<table class="totals">'+
