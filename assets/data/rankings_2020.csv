@@ -1,4 +1,4 @@
-Presidents,Domestic Economic Policy,Foreign Economic Policy,Government Expenditures,Relation to the People,Events Bonuses,Partisanship,Military Policy,Foreign Government Policy,Peace Policy,Territorial Policy,Mandate,Equality Standards / Civil Rights,Thesis / Ideology,Pragmatism,Foreign Alliance Policy,Death in Office, Impeachment in Office,Totals
+Presidents,Domestic Economic Policy,Foreign Economic Policy,Government Expenditures,Relation to the People,Events Bonuses,Partisanship,Military Policy,Foreign Government Policy,Peace Policy,Territorial Policy,Mandate,Equality Standards / Civil Rights,Thesis / Ideology,Pragmatism,Foreign Alliance Policy,Death in Office,Impeachment in Office,Total
 James K. Polk #11,9.5,9.75,10,9.5,10,8.5,10,10,8.5,10,8.5,10,10,10,7.5,,,141.75
 George Washington #1,10,9,10,9.5,10.5,10,9.5,8.5,9.5,9,10,5.5,10,10,9.5,,,140.5
 Theodore Roosevelt #26,9,10,10,9.5,8.75,6.5,10,10,9.5,10,8.5,6.5,10,10,9.5,,,137.75
@@ -28,8 +28,8 @@ John Tyler #10,7,7.5,7.5,5.5,0.75,8,8.5,8,8,8.5,5,5.5,7,6.5,7.5,,,100.75
 George W. Bush #43,6.5,7.5,6,6,3.5,8,6.5,6,6.5,7.25,7.75,7,8,6.5,6.5,,,99.5
 George H. W. Bush #41,7,8.5,7,8,2.75,4.5,7.5,8,6.5,7,7.5,5.5,6,7,6.5,,,99.25
 James A. Garfield #20,6,7,8,5.5,2,2.5,7,7,7,7,6,5.5,6,6.5,7,7,,97
-Ronald Reagan #40,7,6.5,3,8.5,3.5,4,8.5,7.5,5.5,7.5,9,6.5,7,6,7,,,97
-Barack Obama #44,8.5,4.5,6,7.5,0.5,5,8,6,7,7,6.5,8,6,6.5,7,,,94
+Ronald Reagan #40,7,6.5,3,8.5,3.5,2,8.5,7.5,5.5,7.5,9,6.5,7,6,7,,,95
+Barack Obama #44,8.5,4.5,6,7.5,0.5,5,8,6,7,7,6.5,8.5,6,6.5,7,,,94.5
 Martin Van Buren #8,6,7,8,6.5,0.25,8.5,7,7,7,7,6,2.5,5.5,7,7,,,92.25
 John Quincy Adams #6,8,7,10,5.5,-2,3.5,7,8,7,9,3,7,5,5.75,8,,,91.75
 Benjamin Harrison #23,6.5,7,9,6,3.25,4,7,7,7,7,6.5,5.5,5,3.5,7,,,91.25
@@ -43,4 +43,3 @@ Herbert Hoover #31,4.5,5,1.75,5,-4.75,7.5,7,5.5,6.5,7,7.5,7,8,4.5,7,,,79
 Grover Cleveland #22,3,7,7,3.5,-2.5,3.5,7.5,8,7,7.5,6.5,4.5,5,3.5,7,,,78
 William H. Taft #27,2.5,7,6.5,2.5,-0.5,3.5,7,7,7,7,5.5,6,4,3.5,7,,,75.5
 Lyndon B. Johnson #36,3.5,4,4,6.5,-2.25,8,3.5,1.5,3.5,2.5,7,9.5,5.5,2.5,3.5,,,62.75
-Donald Trump #45,4.5,4,2,3,-3,0,7,4,4.5,6.5,2,2.5,1.5,0.5,3.5,,-14,28.5
